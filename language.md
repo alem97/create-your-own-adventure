@@ -26,6 +26,8 @@ Si hablas español, pasa [por aquí](espanol/canudos.md).
 
 Se parli italiano, [seguimi](Italian/caramelle.md).
 
+Ako govoriš bosanski jezik, [klikni ovdje](Bosnian/Pjesma/JaSamVjerniRobLjepote.md)
+
 Türkçe konuşuyorsanız, [buraya](turkce/hatmisekeri.md).
 
 한국어를 사용하신다면, [여기를 클릭](korean/marshmallow.md).
